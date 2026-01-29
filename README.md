@@ -1,6 +1,9 @@
 ## Dataset / Resources
 
-Google Drive link:
+Google Drive link for RAVDESS dataset:
+https://drive.google.com/drive/folders/1rpyeYJmNcIkeSAEpwErJUvV9Lh1pOvXO?usp=sharing
+
+Google Drive link for TESS dataset:
 https://drive.google.com/drive/folders/1th5-du1eVhA9pxKBf-_-gsSqPSR1k8zs?usp=sharing
 
 #Literature survey 
